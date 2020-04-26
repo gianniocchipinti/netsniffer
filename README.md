@@ -5,5 +5,5 @@ A simple packet sniffer using RAW_DATA
 
 === Changelog ===
 
-v.01
+v0.1
 - Inital release
