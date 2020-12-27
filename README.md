@@ -1,7 +1,7 @@
 # netsniffer
 A simple packet sniffer using RAW_DATA
 
-=> You must this script as root!
+=> You mustn run this script as root!
 
 === Changelog ===
 
